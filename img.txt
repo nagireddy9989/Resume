@@ -1,0 +1,238 @@
+"Google Music" redirects here. For the former Chinese product, see List of Google products § Yinyue.
+Google Play Music
+Google Play Music icon (2016).svg
+Google Play Music screenshot.png
+Developer	Google
+Type	Music and video streaming
+Launch date	November 16, 2011; 10 years ago
+Discontinued	December 3, 2020; 15 months ago
+Platform(s)	Android, Android TV, iOS, web browser
+Status	Discontinued
+Website	play.google.com/music
+Google Play Music is a discontinued music and podcast streaming service and an online music locker operated by Google as part of its Google Play line of services. The service was announced on May 10, 2011; after a six-month, invitation-only beta period, it was publicly launched on November 16, 2011.
+
+Users with standard accounts could store up to 50,000 songs from their personal libraries at no cost. A paid Google Play Music subscription allowed users to on-demand stream any song in the Google Play Music catalog and in YouTube Music Premium catalog and in several territories in YouTube Premium catalog. Also, users could purchase additional tracks from the music store section of Google Play. Google Play Music mobile apps also supported offline playback of tracks stored on the device.
+
+Before Google's relaunch of YouTube Music in June 2018, Elias Roman, product manager of GPM and YouTube, told The Verge, "Google’s current goal is to move GPM subscribers over to YouTube Music at some point in 2019."[1] In August 2020, Google announced that the service would start gradually shutting down in September. It was replaced by YouTube Music and Google Podcasts in December 202Standard accounts
+Google Play Music offers all users storage of up to 50,000 files for free.[3][4] Users can listen to songs through the service's web player and mobile apps.[5] The service scans the user's collection and matches the files to tracks in Google's catalog, which can then be streamed or downloaded in up to 320 kbit/s quality.[6][7] Any files that are not matched are uploaded to Google's servers for streaming or re-download. Songs purchased through the Google Play Store do not count against the 50,000-song upload limit.[8]
+
+Supported file formats for upload include: MP3, AAC, WMA, FLAC, Ogg, or ALAC. Non-MP3 uploads will be converted to MP3. Files can be up to 300 MB after conversion.[9]
+
+Songs can be downloaded on the mobile apps for offline playback, and on computers through the Music Manager app.[10]
+
+Standard users located in the United States, Canada, and India can also listen to curated radio stations, supported by video and banner advertisements. Stations are based on "an activity, your mood, or your favorite popular music".[11] Up to six songs per hour can be skipped when listening to curated radio.[5]
+
+Podcasts are also available for free to listen to for standard users in the US and Canada.[12]
+
+Premium accounts
+With a paid subscription to Google Play Music,[13] users receive access to on-demand streaming of 40 million songs[14] and offline music playback on the mobile apps, with no advertisements during listening and no limit on the number of track skips.[5] A one-time 30-day free trial for a subscription to Google Play Music is offered for new users.[15] Paid subscribers also receive access to YouTube Premium (including YouTube Music) in eligible countries.[16]
+
+Platforms
+On computers, music and podcasts can be listened to from a dedicated Google Play Music section of the Google Play website.[17]
+
+On smartphones and tablets, music can be listened to through the Google Play Music mobile app for the Android[18] and iOS operating systems, while podcasts are only supported on Android.[12][19] Up to five smartphones can be used to access the library in Google Play Music, and up to ten devices total. Listening is limited to one device at a time.[20]
+
+Samsung Galaxy S8
+In April 2017, reports surfaced that the default music player on the then-new Samsung Galaxy S8 would be Google Play Music, continuing a trend that started with the S7 in 2016. However, for the S8, Samsung partnered with Google to incorporate additional exclusive features into the app, including the ability to upload up to 100,000 tracks, an increase from the 50,000 tracks users are normally allowed to upload. Google also stated that it would develop other "special features in Google Play Music just for Samsung customers".[21][22] In June, Google Play Music on the S8 was updated to exclusively feature "New Release Radio", a daily, personalized playlist of new music releases.[23][24] In July, the playlist was made available to all users,[25][26] with Google noting in a press release that the exclusivity on Samsung devices was part of an "early access program" for testing and feedback purposes.[27]
+
+History
+Introduction (2010–2011)
+Google first hinted at releasing a cloud media player during their 2010 Google I/O developer conference, when Google's then-Senior Vice President of Social Vic Gundotra showed a "Music" section of the then-called Android Market during a presentation.[28] A music service was officially announced at the following year's I/O conference on May 10, 2011, under the name "Music Beta". Initially, it was only available by invitation to residents of the United States, and had limited functionality; the service featured a no-cost "music locker" for storage of up to 20,000 songs, but no music store was present during the beta period, as Google was not yet able to reach licensing deals with major record labels.[29][30]
+
+After a six-month beta period, Google publicly launched the service in the US on November 16, 2011, as "Google Music" with its "These Go to Eleven" announcement event. The event introduced several features of the service, including a music store integrated into the then-named Android Market, music sharing via the Google+ social network, "Artist Hub" pages for musicians to self-publish music, and song purchasing reflected on T-Mobile phone bills.[31][32][33] At launch, Google had partnerships with three major labels – Universal Music Group, EMI, and Sony Music Entertainment – along with other, smaller labels, although no agreement had been reached with Warner Music Group; in total, 13 million tracks were covered by these deals, 8 million of which were available for purchase on the launch date.[34] To promote the launch, several artists released free songs and exclusive albums through the store; The Rolling Stones debuted the live recording Brussels Affair (Live 1973), and Pearl Jam released a live concert recorded in Toronto as 9.11.2011 Toronto, Canada.[35]
+
+Slow growth (2012–2017)
+In January 2012, a feature was added to Google Music that allows users to download 320kbit/s MP3 copies of any file in their library, with a two-download limit per track via the web, or unlimited downloads via the Music Manager app.[36]
+
+According to a February 2012 report from CNET, Google executives were displeased with Google Music's adoption rate and revenues in its first three months.[37]
+
+In March 2012, the company rebranded the Android Market and its digital content services as "Google Play"; the music service was renamed "Google Play Music".[38][39]
+
+Google announced in October 2012 that they had signed deals with Warner Music Group that would bring "their full music catalog" to the service.[40]
+
+At the Google I/O developer conference in May 2013, Google announced that Google Play Music would be expanded to include a paid on-demand music streaming service called "All Access", allowing users to stream any song in the Google Play catalog. It debuted immediately in the United States for $9.99 per month ($7.99 per month if the users signed up before June 30). The service allows users to combine the All Access catalog with their own library of songs.[41][42]
+
+Google Play Music was one of the first four apps compatible with Google's Chromecast digital media player that launched in July 2013.[43]
+
+In October 2014, a new "Listen Now" feature was introduced, providing contextual and curated recommendations and playlists. The feature was adapted from technology by Songza, which Google acquired earlier in the year.[44]
+
+On November 12, 2014, Google subsidiary YouTube announced "Music Key", a new premium service succeeding All Access that included the Google Play Music streaming service, along with advertising-free access to streaming music videos on YouTube. Additionally, aspects of the two platforms were integrated; Google Play Music recommendations and YouTube music videos are available across both services.[45][46] The service was re-launched in a revised form as YouTube Red (now YouTube Premium) on October 28, 2015, expanding its scope to offer ad-free access to all YouTube videos, as opposed to just music videos, as well as premium content produced in collaboration with notable YouTube producers and personalities.[47]
+
+In December 2015, Google started offering a Google Play Music family plan, that allows unlimited access for up to six family members for US$14.99/month.[48][49][50] The family plan is currently only available in Australia, Belgium, Brazil, Canada, Chile, the Czech Republic, France, Germany, Ireland, Italy, Japan, Mexico, the Netherlands, New Zealand, Norway, Russia, South Africa, Spain, Ukraine, the United Kingdom, and the United States.[51]
+
+In April 2016, Google announced that podcasts would be coming to Google Play Music.[52][53][54] Its first original podcast series, "City Soundtracks", was announced in March 2017, and would "feature interviews with various musicians about how their hometowns influenced their work, including the people and the moments that had an impact".[55][56][57]
+
+In November 2016, Google introduced the Google Home smart speaker system, with built-in support for Google Play Music.[58]
+
+Sunsetting (2018–2020)
+In May 2018, YouTube announced a new version of the YouTube Music service, including a web-based desktop player and redesigned mobile app, more dynamic recommendations based on various factors, and use of Google artificial intelligence technology to search songs based on lyrics and descriptions. YouTube Music was provided to Google Play Music users as part of the YouTube Premium offering.[59]
+
+In June 2018, Google announced that YouTube Red would be replaced by YouTube Premium along with YouTube Music.[60] As a result, users subscribed to Google Play Music in the United States, Australia, New Zealand and Mexico are now given access to YouTube Premium—which includes YouTube Music Premium. Users outside of those four countries are still required to pay the regular YouTube Premium price to access Premium features, but are given free access to YouTube Music Premium.[61]
+
+In June 2018, Google announced plans to shut down Play Music and offer subscribers to migrate to YouTube Music.[16] Since May 2020, users are able to move their music collections, personal taste preferences and playlists to YouTube Music and their podcast history, subscriptions to Google Podcasts.[62][63]
+
+In August 2020, Google announced a detailed shutdown timeline starting in late August and ending with complete data deletion in December. Since late August the Music Manager no longer supports uploading or downloading music. Since September, Google Play Music is no longer available in New Zealand and South Africa, and since October, music streaming started shutting down for some users internationally on the web and the app.[64][65] The music store was made unavailable in October 2020.[66] All usage of the service was discontinued in December 2020[67] and was replaced by YouTube Music and Google Podcasts.[68]
+
+Geographic availability
+Global Map of Availability of Google Play Music
+Global availability of Google Play Music before its discontinuation in December 2020
+Standard accounts on Google Play Music was available in 63 countries before the discontinuation of the service. The full list included: Argentina, Australia, Austria, Belarus, Belgium, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Dominican Republic, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Honduras, Hungary, Iceland, India, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, North Macedonia, Malta, Mexico, Netherlands, New Zealand, Nicaragua, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, Russia, Serbia, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, and Venezuela.[69]
+
+Premium subscriptions are available in the same countries as Standard accounts.[69]
+
+Availability of music was introduced in the United Kingdom, France, Germany, Italy, and Spain in October 2012,[70] Czech Republic, Finland, Hungary, Liechtenstein, Netherlands, Russia, and Switzerland in September 2013,[71] Mexico in October 2013,[72] Germany in December 2013,[73] Greece, Norway, Sweden, and Slovakia in March 2014,[74] Canada,[75] Poland and Denmark in May 2014,[76] Bolivia, Chile, Colombia, Costa Rica, Peru, and Ukraine in July 2014,[77] Dominican Republic, Ecuador, Guatemala, Honduras, Nicaragua, Panama, Paraguay, El Salvador, and Venezuela in August 2014,[78] Brazil and Uruguay in September 2014,[79] 13 new countries in November 2014,[80] Brazil in November 2014,[81] Argentina in June 2015,[82] Japan in September 2015,[83] South Africa and Serbia in December 2015,[84] and India in September 2016, where only purchasing of music was offered.[85] The All Access subscription service launched in India in April 2017.[86][87]
+
+Reception
+icon	Internet portal
+	Music portal
+In 2013, Entertainment Weekly compared a number of music services and gave Google Play Music All Access a "B+" score, writing, "The addition of uploading to augment the huge streaming archive fills in some huge gaps."[88]
+
+References
+ Welch, Chris (May 23, 2018). "YouTube Music will eventually get Google Play Music's best features, including user uploads". The Verge. Retrieved December 7, 2021.
+ "Info about the Google Play Music phase-out". Google. Retrieved October 27, 2020.
+ Welch, Chris (February 25, 2015). "Google now lets you upload 50,000 songs to the cloud for free". The Verge. Vox Media. Retrieved June 21, 2017.
+ Etherington, Darrell (February 25, 2015). "Google Play Music Increases Cloud Storage Limit To 50,000 Songs". TechCrunch. AOL. Retrieved June 21, 2017.
+ "How to use Google Play Music". Google Play Help. Google. Retrieved January 18, 2017.
+ Farivar, Cyrus (December 18, 2012). "Google's cloud-based music-matching service has arrived... and it's free". Ars Technica. Condé Nast. Retrieved June 21, 2017.
+ Kafka, Peter (December 18, 2012). "Google's Music Locker Now Works Like Apple's and Amazon's. Except It's Free". All Things Digital. Dow Jones & Company. Retrieved June 21, 2017.
+ "Google Play Music song storage limits". Google Play Help. Google. Retrieved January 18, 2017.
+ "Google Play Music supported file types". Google Play Help. Google. Retrieved January 18, 2017.
+ "Download music to listen offline". Google Play Help. Google. Retrieved January 25, 2017.
+ "About free radio". Google Play Help. Google. Retrieved January 18, 2017.
+ "Listen to podcasts with Google Play Music - Google Play Music Help". Google. Retrieved November 11, 2020.
+ "Subscribe to Google Play Music – Google Play Music Help". support.google.com. Retrieved June 21, 2018.
+ Gordon, Scott (February 24, 2017). "Google Play Music version 7.4 adds "recents" option, song count now stands at 40 million". Android Authority. Retrieved February 24, 2017.
+ "Free trials for Google Play Music". Google Play Help. Google. Retrieved January 18, 2017.
+ Chokkattu, Julian; Hesse, Brendan; Chang, Lula (June 18, 2018). "YouTube Music is replacing Google Play Music: Here's where, when, and why". Digital Trends. Retrieved June 21, 2018.
+ "Use Play Music on mobile or computer". Google Play Help. Google. Retrieved January 25, 2017.
+ "Google Play Music". Google Play. Google. January 17, 2017. Retrieved January 18, 2017.
+ "Google Play Music". iTunes Store. Apple Inc. December 14, 2016. Retrieved January 18, 2017.
+ "Use Google Play Music on multiple devices". Google Play Help. Google. Retrieved January 18, 2017.
+ Welch, Chris (April 21, 2017). "Samsung will use Google Play Music as the default music app on its devices". The Verge. Vox Media. Retrieved June 21, 2017.
+ Ingraham, Nathan (April 21, 2017). "Galaxy S8 owners can upload 100,000 songs to Google Play Music". Engadget. AOL. Retrieved June 21, 2017.
+ Triggs, Robert. "Google launches exclusive Play Music feature for Galaxy S8". Android Authority. Retrieved June 21, 2017.
+ Singleton, Micah (June 19, 2017). "Google Play Music releases an exclusive feature for the Samsung Galaxy S8". The Verge. Vox Media. Retrieved June 21, 2017.
+ Gartenberg, Chaim (July 14, 2017). "Google Play Music is making New Release Radio available to all users". The Verge. Vox Media. Retrieved July 15, 2017.
+ Duino, Justin (July 13, 2017). "Google Play Music making New Release Radio available to all". 9to5Google. Retrieved July 15, 2017.
+ Dhami, Dharti (July 13, 2017). "Discover the latest music with New Release Radio on Google Play Music". The Keyword. Google. Retrieved July 15, 2017.
+ Siegler, MG (May 20, 2010). "Um, Did Google Just Quietly Launch A Web-Based iTunes Competitor? Yep". TechCrunch. AOL. Retrieved January 18, 2017.
+ Halliday, Josh (May 10, 2011). "Google launches Music Beta and film player". The Guardian. Guardian Media Group. Retrieved January 18, 2017.
+ Murph, Darren (May 11, 2011). "Google Music Beta walkthrough: what it is and how it works (video)". Engadget. AOL. Retrieved January 18, 2017.
+ Cesa, Dante (November 16, 2011). "Google's Android 'These Go To Eleven' liveblog from Los Angeles!". Engadget. AOL. Retrieved January 18, 2017.
+ Miller, Ross (November 16, 2011). "Google Music store official: artist hubs, Google+ integration, and more". The Verge. Vox Media. Retrieved January 18, 2017.
+ Houston, Thomas (November 16, 2011). "Google Music gets Google+ integration". The Verge. Vox Media. Retrieved January 18, 2017.
+ Houston, Thomas (November 16, 2011). "Google Music launching with EMI, Sony Music, and others; offering free, exclusive music". The Verge. Vox Media. Retrieved January 18, 2017.
+ Hyden, Steven (November 17, 2011). "Google Music launches with a bunch of free music from Pearl Jam and the Rolling Stones". The A.V. Club. The Onion. Retrieved January 18, 2017.
+ Hollister, Sean (January 26, 2012). "Google Music now lets you download MP3 copies of your stored tunes". The Verge. Vox Media. Retrieved January 18, 2017.
+ Sandoval, Greg (February 23, 2012). "Google Music not living up to expectations (exclusive)". CNET. CBS Interactive. Retrieved January 18, 2017.
+ Velazco, Chris (March 6, 2012). "Goodbye Android Market, Hello Google Play". TechCrunch. AOL. Retrieved January 18, 2017.
+ Topolsky, Joshua (March 6, 2012). "Hello, Google Play: Google launches sweeping revamp of app, book, music, and video stores". The Verge. Vox Media. Retrieved January 18, 2017.
+ Rubin, Andy (October 29, 2012). "Nexus: The best of Google, now in three sizes". Official Google Blog. Google. Retrieved January 18, 2017.
+ Bishop, Bryan (May 15, 2013). "Google takes on Spotify with Google Play Music All Access subscription service, priced at $9.99 per month". The Verge. Vox Media. Retrieved January 18, 2017.
+ Rushe, Dominic; Arthur, Charles (May 16, 2013). "Google Play Music All Access: search giant launches rival to Spotify". The Guardian. Guardian Media Group. Retrieved January 18, 2017.
+ Spangler, Todd (July 24, 2013). "Google Unveils Chromecast, New Video Device for TVs". Variety. Penske Media Corporation. Retrieved January 18, 2017.
+ Welch, Chris (October 21, 2014). "Google brings Songza's best feature to Play Music". The Verge. Vox Media. Retrieved January 18, 2017.
+ Newton, Casey (November 12, 2014). "YouTube announces plans for a subscription music service". The Verge. Vox Media. Retrieved January 18, 2017.
+ Spangler, Todd (November 12, 2014). "YouTube Launches 'Music Key' Subscription Service with More Than 30 Million Songs". Variety. Penske Media Corporation. Retrieved January 18, 2017.
+ Popper, Ben (October 21, 2015). "Red Dawn: An inside look at YouTube's new ad-free subscription service". The Verge. Vox Media. Retrieved January 18, 2017.
+ Kim, Eunice (December 9, 2015). "Google Play Music: Now playing for your family". Official Android Blog. Google. Retrieved January 18, 2017.
+ Welch, Chris (December 9, 2015). "Google Play Music launches $14.99 family plan for up to six people". The Verge. Vox Media. Retrieved January 18, 2017.
+ King, Jr., Bertel (December 9, 2015). "Google Play Music Family Plans Launch In The US, UK, Canada, And Three Other Countries — YouTube Red Included". Android Police. Retrieved January 18, 2017.
+ "Google Play Music family plan". Google Play Help. Google. Retrieved September 9, 2017.
+ Malkovitch, Ilia (April 18, 2016). "Welcome to Google Play Music, the podcast episode". The Keyword Google Blog. Google. Retrieved March 8, 2017.
+ Lardinois, Frederic (April 18, 2016). "Google brings podcasts to Google Play Music". TechCrunch. AOL. Retrieved March 8, 2017.
+ Amadeo, Ron (April 18, 2016). "Google Play Music Podcasts launches today". Ars Technica. Condé Nast. Retrieved March 8, 2017.
+ Roman, Elias (March 8, 2017). "Google Play Music Presents: City Soundtracks". The Keyword Google Blog. Google. Retrieved March 8, 2017.
+ Perez, Sarah (March 8, 2017). "Google Play unveils its first original podcast series, 'City Soundtracks'". TechCrunch. AOL. Retrieved March 8, 2017.
+ Vincent, James (March 8, 2017). "Google Play Music's first original podcast is a guide to city soundtracks". The Verge. Vox Media. Retrieved March 8, 2017.
+ Seifert, Dan (November 3, 2016). "Google Home Review: Home is Where The Smart Is". The Verge. Vox Media. Retrieved January 18, 2017.
+ Roman, Elias (May 16, 2018). "YouTube Music, a new music streaming service, is coming soon". YouTube Blog. Retrieved July 12, 2020.
+ Hastings, Nick (June 18, 2018). "YouTube Music and YouTube Premium launch on mobile in 17 countries". Digital Trends. Retrieved June 21, 2018.
+ "YouTube Music and YouTube Premium launch in 17 countries: It's all here". Official YouTube Blog. June 18, 2018. Retrieved September 5, 2018.
+ "YouTube Music adds a transfer option ahead of Google Play Music's shutdown this year". TechCrunch. Retrieved August 8, 2020.
+ "Google Podcasts can import all your Play Music podcast subscriptions". May 12, 2020. Retrieved October 27, 2020.
+ "Google kills Google Play Music, offers easy migration to YouTube Music". GSMArena. October 22, 2020. Retrieved October 22, 2020.
+ "Google Play Music is now officially dead, dead, dead". Android Police. October 22, 2020. Retrieved October 22, 2020.
+ Li, Abner (October 12, 2020). "Google shuts down Play Music store for buying songs". 9to5Google. Retrieved October 12, 2020.
+ Li, Abner (December 3, 2020). "Google fully shuts down Play Music around the world". 9to5Google. Retrieved December 4, 2020.
+ "YouTube Music will replace Google Play Music by end of 2020". blog.youtube.com/news and events. August 4, 2020.
+ "Country availability for apps & digital content". Google Play Help. Google. Retrieved January 18, 2017.
+ Spradlin, Liam (October 29, 2012). "Google Partners With Warner Music Group For Play Music, Promises To Bring The Service (With Song Matching) To Europe November 13". Android Police. Retrieved February 20, 2017.
+ Spradlin, Liam (September 30, 2013). "Google Play Music (And All Access) Live In Czech Republic, Finland, Hungary, Liechtenstein, Netherlands, Russia, And Switzerland". Android Police. Retrieved February 20, 2017.
+ Summerson, Cameron (October 8, 2013). "Google Play Music And All Access Go Live In Mexico". Android Police. Retrieved January 18, 2017.
+ Whitwam, Ryan (December 5, 2013). "Google Play Music All Access Arrives In Germany". Android Police. Retrieved January 18, 2017.
+ Crider, Michael (March 17, 2014). "Google Play Music And Music All Access Now Available In Greece, Norway, Sweden, And Slovakia". Android Police. Retrieved January 18, 2017.
+ Whitwam, Ryan (May 5, 2014). "Google Play Music All Access Is Rolling Out In Canada". Android Police. Retrieved January 18, 2017.
+ Whitwam, Ryan (May 27, 2014). "Google Play Music And All Access Now Available In Poland And Denmark". Android Police. Retrieved January 18, 2017.
+ King Jr., Bertel (July 15, 2014). "Google Play Music Goes Live In Colombia, Ukraine, Chile, Costa Rica, And Other Countries [Updated]". Android Police. Retrieved February 20, 2017.
+ Crider, Michael (August 19, 2014). "[Update: Now Live] Google Play Music All Access Is Now Available In 9 New Countries In Latin America, Including Ecuador, Guatemala, And Venezuela". Android Police. Retrieved January 18, 2017.
+ King Jr., Bertel (September 22, 2014). "Play Music Launches In Brazil And Uruguay, All Access Only In Uruguay (Kind Of)". Android Police. Retrieved February 20, 2017.
+ King Jr., Bertel (November 3, 2014). "Google Play Music Goes Live In Belarus, Bulgaria, Romania, And Ten Other European Countries". Android Police. Retrieved February 20, 2017.
+ Crider, Michael (November 28, 2014). "Google Play Music All Access Now Available In Brazil". Android Police. Retrieved January 18, 2017.
+ King Jr., Bertel (June 29, 2015). "[Updated] Google Play Music Support Comes To Argentina, Subscriptions Included". Android Police. Retrieved February 20, 2017.
+ El Khoury, Rita (September 3, 2015). "Google Play Music And Play Music All Access Make Their Way Over To Japan". Android Police. Retrieved January 18, 2017.
+ El Khoury, Rita (December 8, 2015). "Google Play Music Blasts Its Tunes To South Africa And Serbia". Android Police. Retrieved January 18, 2017.
+ Gao, Richard (September 27, 2016). "[Finally] Google Play Music now appears to be available in India". Android Police. Retrieved January 18, 2017.
+ Ghoshal, Abhimanyu (April 6, 2017). "Google Play Music Unlimited launches in India at Rs. 89 to take on Apple Music". The Next Web. Retrieved April 6, 2017.
+ Jonnalagadda, Harish (April 6, 2017). "Google Play Music All Access finally goes live in India, starts at just ₹89 per month". Android Central. Retrieved April 6, 2017.
+ Anderson, Kyle (January 18, 2013). "What's the Best Music Service?". Entertainment Weekly. Time Inc.: 14.
+External links
+Official website
+vte
+Google
+vte
+Free and subscription music streaming services
+vte
+Music digital distribution platforms
+Categories: Android (operating system) softwareIOS softwareGoogle softwareMobile software2011 softwareMobile software distribution platformsProducts introduced in 2011Products and services discontinued in 2020Music streaming servicesAndroid Auto softwareGoogle Play
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+
+Languages
+العربية
+বাংলা
+Deutsch
+Español
+Bahasa Indonesia
+Bahasa Melayu
+Русский
+தமிழ்
+中文
+17 more
+Edit links
+This page was last edited on 17 January 2022, at 03:52 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
